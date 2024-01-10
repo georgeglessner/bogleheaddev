@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Boglehead Dev"
   avatar : "/assets/images/icon-photo.png"
-  bio    : "Investing and software development blog"
+  bio    : "Software developer following the [Bogleheads® investment philosophy](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy)."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
