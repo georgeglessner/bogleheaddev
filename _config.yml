@@ -22,6 +22,17 @@ twitter_username: bogleheaddev
 minimal_mistakes_skin: dark
 search: true
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "bogleheaddev"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-GP6E1DRFMP"
+    anonymize_ip: false # default
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
