@@ -9,7 +9,7 @@ I created this blog in 2024 to become more engaged in the investment and softwar
 
 Here is a little about me: 
 
-Age: 27
+Age: 28
 
 Location: Michigan
 
