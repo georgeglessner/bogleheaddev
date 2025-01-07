@@ -22,6 +22,8 @@ twitter_username: bogleheaddev
 minimal_mistakes_skin: dark
 search: true
 
+og_image: /assets/images/icon-photo.png
+
 comments:
   provider: "disqus"
   disqus:
