@@ -6,6 +6,7 @@ categories:
 tags:
   - automation
   - money
+  - development
 ---
 
 In 2018, I came up with the idea to create an *automated* Twitter account that shared posts from my favorite subreddit. At the time, I had no plans to monetize it—or even attract followers. It was purely a fun, personal side project driven by my own interests.
