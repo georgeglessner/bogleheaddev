@@ -15,6 +15,6 @@ Location: Michigan
 
 Occupation: Senior Software Developer
 
-Target Asset Allocation: Total US Stock (60%), Total International Stock (20%), Cash(10%), Real Estate (10%)
+Target Asset Allocation: Total US Stock (80%), Cash(10%), Real Estate (10%)
 
 Hobbies: Fishing, mountain biking, traveling
