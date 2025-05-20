@@ -17,7 +17,7 @@ title: Boglehead Dev
 # email:
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog covering investing and software development. 
-twitter_username: bogleheaddev
+# twitter_username: bogleheaddev
 # github_username: username
 minimal_mistakes_skin: dark
 search: true
@@ -72,16 +72,16 @@ author:
   name   : "Boglehead Dev"
   avatar : "/assets/images/icon-photo.png"
   bio    : "Software developer following the [Bogleheads® investment philosophy](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy)."
-  links:
-    - label: ""
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://twitter.com/bogleheaddev"
+  # links:
+  #   - label: ""
+  #     icon: "fab fa-fw fa-x-twitter"
+  #     url: "https://twitter.com/bogleheaddev"
 
-footer:
-  links:
-    - label: ""
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://twitter.com/bogleheaddev"
+# footer:
+  # links:
+  #   - label: ""
+  #     icon: "fab fa-fw fa-x-twitter"
+  #     url: "https://twitter.com/bogleheaddev"
 
 defaults:
   # _posts
